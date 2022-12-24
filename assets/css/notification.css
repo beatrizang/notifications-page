@@ -1,5 +1,4 @@
 .notification{
-    align-items:center;
     background: var(--very-light-grayish-blue);
     border-radius: 0.5rem;
     cursor: pointer;
@@ -22,7 +21,7 @@
 }
 
 .notification__text{
-    line-height: 1.5rem;
+    line-height: 1rem;
 }
 
 .notification__title{
@@ -72,7 +71,6 @@
 }
 
 .row{
-    align-items: center;
     display: flex;
 }
 
