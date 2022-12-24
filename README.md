@@ -27,12 +27,14 @@ Users should be able to:
 ### Screenshot
 
 ![](./assets/images/screenshots/1.png)
+
+
 ![](./assets/images/screenshots/2.png)
 
 ### Links
 
 - Solution URL: 
-- Live Site URL: 
+- Live Site URL: https://beatrizang.github.io/notifications-page/
 
 ## My process
 
