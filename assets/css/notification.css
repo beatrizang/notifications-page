@@ -1,5 +1,5 @@
 .notification{
-    align-items:flex-start;
+    align-items:center;
     background: var(--very-light-grayish-blue);
     border-radius: 0.5rem;
     cursor: pointer;
@@ -72,6 +72,7 @@
 }
 
 .row{
+    align-items: center;
     display: flex;
 }
 
