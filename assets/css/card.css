@@ -62,3 +62,19 @@
         padding: 0.3rem 0.5rem;
     }
 }
+
+@media screen and (max-width: 768px) {
+    .card{
+        margin: 0rem;
+        width: 100%;
+    }
+
+    .card__title{
+        font-size: 1rem;
+    }
+
+    .card__number{
+        border-radius: 8px;
+        padding: 0.3rem 0.5rem;
+    }
+}
